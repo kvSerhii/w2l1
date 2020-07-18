@@ -1,0 +1,11 @@
+.first{
+    padding: 50px;
+    background-color: antiquewhite;
+    box-sizing: border-box;
+}
+
+.second{
+    margin: 50px;
+    background-color: azure;
+    box-sizing: border-box;
+}
